@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
             findViewById<TextView>(R.id.textView).text="Hello from Minhui"
             findViewById<TextView>(R.id.textView).setTextColor(getResources().getColor(R.color.white))
             findViewById<View>(R.id.backgroundView).setBackgroundColor(getResources().getColor(R.color.userdefined))
+            findViewById<EditText>(R.id.et_simple).setText("")
         }
 
         // 4. User can update the label text with custom text entered into the text field.
