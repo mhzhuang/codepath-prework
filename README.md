@@ -4,7 +4,7 @@
 This Androip app is for CodePath Intro to Mobile App Development's Pre Work Project
 
 ### App Walk-though
-<img src="https://imgur.com/a/2tq91Tf" width=200><br>
+<img src="https://i.imgur.com/1Thyadf.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
